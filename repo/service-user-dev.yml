@@ -21,4 +21,4 @@ mybatis:
   type-aliases-package: com.bosssoft.hr.train.springcloud.userclient.pojo
 
 #测试bus-refresh刷新
-cacheName: users
+getNullReturnMsg: "no such user"
