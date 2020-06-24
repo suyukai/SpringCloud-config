@@ -7,7 +7,7 @@ spring:
   cache:
     type: redis
   redis:
-    database: 6
+    database: 10
     host: 120.78.226.71
     port: 6379
     password: suyukai
